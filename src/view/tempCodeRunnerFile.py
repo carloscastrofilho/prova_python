@@ -1,0 +1,2 @@
+
+        if command == 1:             
